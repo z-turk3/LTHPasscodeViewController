@@ -1270,7 +1270,7 @@ options:NSNumericSearch] != NSOrderedAscending)
 	}
 	_failedAttemptLabel.layer.cornerRadius = kFailedAttemptLabelHeight * 0.65f;
 	_failedAttemptLabel.clipsToBounds = true;
-	_failedAttemptLabel.hidden = NO;
+	_failedAttemptLabel.hidden = YES;
 }
 
 

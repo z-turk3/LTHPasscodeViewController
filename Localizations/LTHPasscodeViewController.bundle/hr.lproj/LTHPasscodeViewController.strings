@@ -1,0 +1,29 @@
+/*
+ LTHPasscodeViewController.strings
+  */
+
+"Enter Passcode" = "Unesite lozinku";
+
+"Enter your old passcode" = "Unesite trenutnu lozinku";
+
+"Enter your passcode" = "Unesite lozinku;
+
+"Enable Passcode" = "Postavite lozinku";
+
+"Change Passcode" = "Promijeni lozinku";
+
+"Turn Off Passcode" = "Izbriši lozinku";
+
+"Re-enter your passcode" = "Ponovite svoju lozinku";
+
+"Re-enter your new passcode" = "Ponovite novu lozinku";
+
+"Enter your new passcode" = "Unesite novu lozinku";
+
+"Passcodes did not match. Try again." = "Ponovljena lozinka nije ista prvotno unešenoj";
+
+"1 Passcode Failed Attempt" = "Pogrešna lozinka!";
+
+"%i Passcode Failed Attempts" = "%i neispravnih pokušaja";
+
+"Unlock using Touch ID" = "Otključavanje pomoču Touch ID";
